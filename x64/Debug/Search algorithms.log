@@ -1,0 +1,5 @@
+﻿  Functions.cpp
+D:\Проекты Visual studio\Search algorithms\Functions.cpp(93,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Проекты Visual studio\Search algorithms\Functions.cpp(202,6): warning C4101: i: неиспользованная локальная переменная
+D:\Проекты Visual studio\Search algorithms\Functions.cpp(282): warning C4715: MENU: значение возвращается не при всех путях выполнения
+  Search algorithms.vcxproj -> D:\Проекты Visual studio\Search algorithms\x64\Debug\Search algorithms.exe
